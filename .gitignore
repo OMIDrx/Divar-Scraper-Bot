@@ -1,0 +1,14 @@
+.venv/
+
+.vscode/
+
+__pycache__/
+*.pyc
+
+image/
+image_2/
+
+*.log
+*.tmp
+
+*.db
